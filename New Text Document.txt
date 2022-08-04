@@ -1,1 +1,3 @@
 abczzzzzz11212123123123
+
+connection string = sqlserver.abc.com sa sa
